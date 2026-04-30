@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spyderbot</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f0f0f;
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 60px 20px;
+      background: #111;
+    }
+
+    h1 {
+      font-size: 40px;
+      margin: 0;
+    }
+
+    p {
+      font-size: 18px;
+      opacity: 0.8;
+    }
+
+    .btn {
+      margin-top: 20px;
+      padding: 12px 20px;
+      background: #00ff88;
+      color: black;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px 20px;
+    }
+
+    footer {
+      padding: 20px;
+      font-size: 14px;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Spyderbot</h1>
+  <p>Robot inteligente de riego automatizado</p>
+  <button class="btn">Contacto: uvspyderbot</button>
+</header>
+
+<section>
+  <h2>Proyecto</h2>
+  <p>Este sistema automatiza el riego de plantas usando robótica móvil tipo teleférico.</p>
+</section>
+
+<footer>
+  © 2026 Spyderbot
+</footer>
+
+</body>
+</html>
